@@ -688,7 +688,7 @@ version = "1.3.3"
 
 [corust-agent]
 submodule = "extensions/corust-agent"
-version = "0.3.3"
+version = "0.3.4"
 
 [cosmos]
 submodule = "extensions/cosmos"
@@ -1148,6 +1148,10 @@ version = "1.0.0"
 [firebase-security-rules]
 submodule = "extensions/firebase-security-rules"
 version = "0.1.1"
+
+[firrtl-source-locator]
+submodule = "extensions/firrtl-source-locator"
+version = "0.1.0"
 
 [fish]
 submodule = "extensions/fish"
@@ -2194,6 +2198,10 @@ version = "0.0.2"
 submodule = "extensions/mcp-server-threadbridge"
 version = "0.1.0"
 
+[mcp-server-weave]
+submodule = "extensions/mcp-server-weave"
+version = "0.0.2"
+
 [mcp-server-webflow]
 submodule = "extensions/mcp-server-webflow"
 version = "0.1.0"
@@ -2947,6 +2955,10 @@ version = "0.0.1"
 [puppet]
 submodule = "extensions/puppet"
 version = "0.2.0"
+
+[puppydog-theme]
+submodule = "extensions/puppydog-theme"
+version = "0.0.1"
 
 [purescript]
 submodule = "extensions/purescript"
@@ -3823,7 +3835,7 @@ version = "0.0.1"
 
 [unocss]
 submodule = "extensions/unocss"
-version = "0.0.4"
+version = "0.0.5"
 
 [unoflat]
 submodule = "extensions/unoflat"
@@ -4025,6 +4037,10 @@ version = "0.0.1"
 [warp-one-dark]
 submodule = "extensions/warp-one-dark"
 version = "0.1.1"
+
+[warplabs]
+submodule = "extensions/warplabs"
+version = "0.14.0"
 
 [wat]
 submodule = "extensions/wat"
